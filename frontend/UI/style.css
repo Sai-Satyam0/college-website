@@ -567,7 +567,7 @@ section.visible .course-card {
 /* Faculty Section */
 #faculty {
     background: linear-gradient(rgba(10, 36, 99, 0.9), rgba(10, 36, 99, 0.9)),
-        url("/frontend/background_images/facuilty.jpg") center/cover no-repeat fixed;
+        url("/frontend/UI/background_images/facuilty.jpg") center/cover no-repeat fixed;
     color: var(--white);
 }
 
