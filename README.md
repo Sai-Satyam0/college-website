@@ -220,13 +220,10 @@ Email
 - saisatyam9890@gmail.com
 
 
-GitHub
-
-https://github.com/YOUR_GITHUB_USERNAME
 
 LinkedIn
-
-https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+[
+https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/sai-satyam-68b796387/)
 
 If you have any questions or feedback about this project, feel free to contact me.
 
