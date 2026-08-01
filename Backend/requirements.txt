@@ -3,3 +3,4 @@ uvicorn==0.35.0
 sqlalchemy==2.0.43
 pydantic==2.11.7
 PyMySQL==1.1.1
+cryptography>=43.0.0
