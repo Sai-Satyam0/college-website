@@ -51,7 +51,9 @@ The frontend is deployed on Netlify, while the backend and MySQL database are de
 
 - Python
 - FastAPI
-- Mysql
+- SQLAlchemy
+- Pydantic
+- MySQL
 
 ### Tools
 
@@ -60,7 +62,6 @@ The frontend is deployed on Netlify, while the backend and MySQL database are de
 - GitHub
 
 ### Deployment
-- GitHub
 - Netlify
 - Railway
 
@@ -117,7 +118,7 @@ pip install -r requirements.txt
 Run the FastAPI server
 
 ```bash
-uvicorn app:app --reload
+uvicorn main:app --reload
 ```
 
 Open the frontend using Live Server or open the `index.html` file in your browser.
