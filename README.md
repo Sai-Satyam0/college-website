@@ -56,23 +56,26 @@ The project includes multiple sections commonly found on college websites such a
 ```text
 Collage_website/
 
+│
 ├── backend/
-│   ├── main.py
-│   ├── models.py
-│   └── database.py
-|   |__ schemas.py
+│   ├── main.py              # FastAPI application
+│   ├── database.py          # SQLAlchemy engine & DB connection
+│   ├── models.py            # Contact table model
+│   ├── schemas.py           # Pydantic request schemas
+│   ├── requirements.txt     # Python dependencies
+│  
 │
 ├── frontend/
 │   ├── UI/
-│   │   ├── index.html
-│   │   ├── style.css
-│   │   └── script.js
-│   │
-│   ├── images/
-│   └── background_images/
+│       ├── index.html       # Main webpage
+│       ├── style.css        # Styling
+│       └── script.js        # JavaScript + FastAPI fetch()
+│       │
+│       ├── images/              # Student images.
+│       └── background_images/   # Background photos
 │
 ├── README.md
-└── requirements.txt
+└── runtime.txt (contains the python version)
 ```
 
 ---
