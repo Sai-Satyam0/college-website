@@ -59,7 +59,11 @@ The frontend is deployed on Netlify, while the backend and MySQL database are de
 - Git
 - GitHub
 
----
+### Deployment
+- GitHub
+- Netlify
+- Railway
+
 
 ## Project Structure
 
