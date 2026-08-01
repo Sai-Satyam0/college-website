@@ -6,19 +6,14 @@ This project is a modern and responsive college website developed as part of my 
 
 The project includes multiple sections commonly found on college websites such as courses, faculty, admissions, events, gallery, notices, and contact information. It also includes a simple FastAPI backend to gain experience with frontend and backend integration.
 
-
-This website is deployed in two different sites. Netlify for deploying frontend and Railway for deploying Backend. The frontend and Backend are connected 
-
-Full website link : https://friendly-peony-f52668.netlify.app
+The frontend is deployed on Netlify, while the backend and MySQL database are deployed on Railway. The frontend communicates with the FastAPI backend through REST API requests.
 
 
+## Live Demo
 
-Separate links : 
-- **Frontend (Netlify):**
-  https://friendly-peony-f52668.netlify.app
-
-- **Backend API (Railway):**
-  https://college-website-production-93ba.up.railway.app
+- **Website:** https://friendly-peony-f52668.netlify.app
+- **Backend API:** https://college-website-production-93ba.up.railway.app
+- **API Documentation:** https://college-website-production-93ba.up.railway.app/docs
 
 
 **Note:** This is an independent educational portfolio project. It is not the official website of Chandigarh College of Engineering and Technology (CCET).
