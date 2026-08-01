@@ -223,7 +223,7 @@ Email
 
 LinkedIn
 [
-https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/sai-satyam-68b796387/)
+https://www.linkedin.com/in/sai-satyam](https://www.linkedin.com/in/sai-satyam-68b796387/)
 
 If you have any questions or feedback about this project, feel free to contact me.
 
