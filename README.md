@@ -68,7 +68,7 @@ The frontend is deployed on Netlify, while the backend and MySQL database are de
 ## Project Structure
 
 ```text
-Collage_website/
+College-website/
 
 │
 ├── backend/
